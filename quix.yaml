@@ -23,7 +23,7 @@ deployments:
         inputType: OutputTopic
         description: This is the output topic for hello world data
         required: true
-        value: hello-world-source
+        value: raw-data
 
 # This section describes the Topics of the data pipeline
 topics:
